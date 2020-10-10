@@ -26,5 +26,6 @@ class Student
     sql = <<-SQL
       DROP TABLE students (
       )
+      SQL
   
 end
