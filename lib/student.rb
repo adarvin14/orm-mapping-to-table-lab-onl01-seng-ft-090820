@@ -19,7 +19,7 @@ class Student
         grade INTEGER
         )
       SQL
-      DB[:conn].executeSQL
+      DB[:conn].execute(sql)
   end
   
   def
