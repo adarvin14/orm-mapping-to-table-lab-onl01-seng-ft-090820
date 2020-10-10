@@ -28,6 +28,6 @@ class Student
       )
       SQL
       
-      sql = "DROP TABLE IF 
+      sql = "DROP TABLE IF EXIST students
   
 end
