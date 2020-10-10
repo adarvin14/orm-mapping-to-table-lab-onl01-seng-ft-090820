@@ -28,6 +28,6 @@ class Student
       )
       SQL
       
-      sql = DROP TABLE
+      sql = "DROP TABLE IF 
   
 end
