@@ -27,6 +27,7 @@ class Student
       DROP TABLE students (
       )
       SQL
-      sql
+      
+      sql = DROP TABLE
   
 end
